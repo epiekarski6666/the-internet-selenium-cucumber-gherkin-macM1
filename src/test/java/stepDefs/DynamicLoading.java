@@ -27,4 +27,6 @@ public class DynamicLoading extends Setup{
     public void haveResult(){
         dynamicLoadingHelper.verifyResult();
     }
+
+                                                                                        //CLOSE BROWSER
 }
