@@ -28,5 +28,5 @@ public class DynamicLoading extends Setup{
         dynamicLoadingHelper.verifyResult();
     }
 
-                                                                                        //CLOSE BROWSER
+                                                                                         //CLOSE BROWSER
 }
