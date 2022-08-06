@@ -15,7 +15,7 @@ public class Setup {
 
     //@BeforeClass
     public void setup(){
-            System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "/Users/edwinpiekarski/IdeaProjects/the-internet-selenium/src/main/resources/chromedriver");
             driver = new ChromeDriver();
 //            System.setProperty("webdriver.gecko.driver", "src/main/resources/geckodriver.exe");
 //            driver = new FirefoxDriver();
