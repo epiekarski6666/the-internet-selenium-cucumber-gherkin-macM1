@@ -12,7 +12,7 @@ public class DynamicLoading extends Setup{
 
     @Given("dynamic loading link 2 clicked")
     public void dynamicLoadingLink2(){
-        setup();                                                                        //TO BE FIXED!!!!
+        setup();
         dynamicLoadingHelper.goToDynamicLoading();
     }
 
